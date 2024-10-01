@@ -1,7 +1,7 @@
 {
   "name": "proxy-vercel",
   "version": "1.0.0",
-  "type": "module",  // Agrega esta línea
+  "type": "module",
   "scripts": {
     "start": "vercel dev"
   },
